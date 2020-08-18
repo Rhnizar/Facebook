@@ -1,0 +1,17 @@
+h1
+{
+	color:red;
+}
+fieldset
+{
+	margin:auto;
+	width:600px;
+	height:600px;
+	background-color:#00FF00;
+}
+legend
+{
+	color:#000000;
+	border:8px;
+	border-bottom-width:15px;
+}

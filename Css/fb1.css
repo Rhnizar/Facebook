@@ -1,0 +1,41 @@
+fieldset
+{
+	background-color:#000000;
+	text-align:center;
+}
+h1
+{
+	text-align:center;
+	color:#FFFFFF;
+	height:100;
+}
+legend
+{
+	color:#FFD700;
+	border:8px;
+	border-bottom-width:15px;
+}
+input [type=text]
+{
+	width: 70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+label
+{
+	color:#00FFFF;
+}
+img
+{
+	height:400;
+	position:center;
+}
+body
+{
+	background-color:#00BFFF;
+}
+.yes
+{
+	color:red;
+}
